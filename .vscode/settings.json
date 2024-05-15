@@ -17,5 +17,6 @@
     }
   },
 
-  "terminal.integrated.defaultProfile.windows": "Command Prompt"
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "cmake.configureOnOpen": false
 }
