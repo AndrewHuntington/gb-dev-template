@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "name": "Mac",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "${workspaceFolder}/../../Resources/gbdk/include/**"
+      ]
+    },
+    {
+      "name": "Win32",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "${workspaceFolder}/../../Resources/gbdk/include/**"
+      ]
+    }
+  ],
+  "version": 4
+}
